@@ -10,6 +10,7 @@ While existing approaches for neural audio synthesis have produced high-quality 
 **Constraints:** Firstly, the latent space of the model should be capable of representing specific timbre dimensions for further control. Secondly, the model will heavily rely on domain knowledge from digital signal processing (DSP). Lastly, our model aims to handle one specific class of audio signals to improve the quality of the synthesis.
 
 ## Report and generated output
+- Quick walkthrough for the project: [presentation](artifacts/presentation.pdf)
 - Complete Report available: [here](artifacts/report.pdf)
 - Generated outputs available: [here](artifacts/generated_sound)
 
